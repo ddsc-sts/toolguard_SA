@@ -1,0 +1,11 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U3",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"Rpot1",1,"250 kΩ Potentiometer"
+"M1",1," DC Motor"
+"T2",1," nMOS Transistor (MOSFET)"
+"R5",1,"1 kΩ Resistor"
+"1",1," Breadboard Small"
+"D2",1,"RCBG LED RGB"
+"R1, R2, R3",3,"330 Ω Resistor"
+
